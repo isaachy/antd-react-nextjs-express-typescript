@@ -1,4 +1,4 @@
-# Antd design & nextjs with server express
+# Antd design & nextjs with server express & typescript
 
 This example shows how to use Next.js along with [Ant Design of React](http://ant.design). This is intended to show the integration of this UI toolkit with the Framework. The code base is from example next-vercel: with-ant-design-less 
 
